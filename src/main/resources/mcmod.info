@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bp",
+  "name": "Biomes+",
+  "description": "More biomes, more danger and more fun!.",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
